@@ -152,7 +152,4 @@ fillcolor('green')
 lleaf()
 rleaf()
 
-move((200,-200),0)
-write("for 三两", True, align="left",font=("Arial",50,"normal"))
-
 exitonclick()
